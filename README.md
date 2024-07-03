@@ -21,4 +21,5 @@ main Function:
 Prompts the user to input a genre.
 Fetches movies of the specified genre.
 Prints the recommended movie.
-Not
+![image](https://github.com/cmamath/Python-Project-Submission/assets/174296440/fbd7bf68-a74b-494a-a65e-5a886fe65325)
+
